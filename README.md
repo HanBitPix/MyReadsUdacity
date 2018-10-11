@@ -27,7 +27,7 @@ To add books, simply click on the arrow down of the book and you will have the 3
 ### `Remove Books`
 Simply within the options, click on `none` to remove from you collection.
 
-### `404 | Page Not Found`
+### 404 | Page Not Found
 If you go anywhere else, the 404 Erorr Page will show
 
 ### Important
