@@ -9,23 +9,35 @@
 ## How it Works
 When you start, will have default books that will be there already
 
+![Screenshot](/src/img/home-page.png)
+
 With each book, you will have 3 options to organize by:
 * Currently reading
 * Want to read
 * Read
 * None
 
+![Screenshot](/src/img/update.png)
+
 ### `Add Books`
 To search & add more books to your collection, click on the green button as shown.
+
+![Screenshot](/src/img/search.png)
+
+Search by typing in the search bar
+![Screenshot](/src/img/search-result.png)
 
 To add books, simply click on the arrow down of the book and you will have the 3 same options to organize it by:
 * Currently reading
 * Want to read
 * Read
 * None
+![Screenshot](/src/img/add.png)
+
 
 ### `Remove Books`
 Simply within the options, click on `none` to remove from you collection.
+![Screenshot](/src/img/remove.png)
 
 ### 404 | Page Not Found
 If you go anywhere else, the 404 Erorr Page will show
